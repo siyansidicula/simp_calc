@@ -77,14 +77,5 @@ Enter second number: 20
 
 Result: 30
 
-## Learning Outcomes
-
-By completing this project, you will understand:
-
-* How to create and use classes in C#
-* How methods improve code reusability
-* How loops can repeatedly execute code
-* How switch statements simplify decision-making
-* How to handle basic user input and output
 
 ---
