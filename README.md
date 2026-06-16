@@ -77,5 +77,3 @@ Enter second number: 20
 
 Result: 30
 
-
----
