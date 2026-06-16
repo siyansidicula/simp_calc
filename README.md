@@ -6,8 +6,6 @@ This project is a simple console-based calculator developed using C#. It allows 
 
 The program demonstrates the use of classes, objects, methods, loops, conditional statements, and switch cases in C#.
 
----
-
 ## Features
 
 * Addition of two numbers
@@ -17,8 +15,6 @@ The program demonstrates the use of classes, objects, methods, loops, conditiona
 * Division-by-zero error handling
 * Menu-driven user interface
 * Continuous execution until the user chooses to exit
-
----
 
 ## Concepts Used
 
@@ -30,7 +26,6 @@ The program demonstrates the use of classes, objects, methods, loops, conditiona
 * User Input and Output
 * Exception Handling for Division by Zero
 
----
 
 ## Project Structure
 
@@ -53,7 +48,6 @@ The `Program` class contains the `Main()` method, which:
 4. Displays the result.
 5. Repeats until the user selects the Exit option.
 
----
 
 ## Sample Menu
 
@@ -65,8 +59,6 @@ The `Program` class contains the `Main()` method, which:
 4. Divide
 5. Exit
 ```
-
----
 
 ## Sample Output
 
@@ -84,9 +76,6 @@ Enter first number: 10
 Enter second number: 20
 
 Result: 30
-```
-
----
 
 ## Learning Outcomes
 
